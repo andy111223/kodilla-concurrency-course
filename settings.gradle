@@ -2,4 +2,5 @@ rootProject.name = 'kodilla-multithreading'
 include 'module-1'
 include 'module-2'
 include 'module-3'
+include 'module-4'
 
